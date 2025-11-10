@@ -269,10 +269,10 @@
             .col-12.col-md-6.col-lg-8
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="https://repositorio.21.edu.ar/bitstream/handle/ues21/12816/TEORIA%20DE%20LA%20ADMINISTRACION%20PUBLICA.pdf") Ramió, C. (2021). Teoría de la organización. LP Derecho.
+                a.text-small.text-primary(target="_blank", href="https://tecnoadministracionpub.wordpress.com/wp-content/uploads/2012/08/u1-carles-ramio-teoria-de-la-organizacion.pdf") Ramió, C. (2021). Teoría de la organización. LP Derecho.
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="https://repositorio.21.edu.ar/bitstream/handle/ues21/12816/TEORIA%20DE%20LA%20ADMINISTRACION%20PUBLICA.pdf") Martínez, J. (2019). Teoría de la administración pública. Universidad Siglo 21.
+                a.text-small.text-primary(target="_blank", href="https://inap.mx/wp-content/uploads/2022/09/ANTOLOGIA-2022-4ta.-Ed.-PAG.-WEB..pdf") Martínez, J. (2019). Teoría de la administración pública. Universidad Siglo 21.
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
                 a.text-small.text-primary(target="_blank", href="https://www.youtube.com/watch?v=XyKc27G1V3s") [Vídeo] Administración pública: ¿Qué es? Descubre TODO en 4 minutos. (2022, 10 de marzo).
